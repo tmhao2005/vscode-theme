@@ -1,0 +1,48 @@
+{
+  "terminal.integrated.fontFamily": "MesloLGS NF",
+  "editor.fontFamily": "Ubuntu mono,Fantasque Sans Mono,Ubuntu mono,'Monoid-Retina',consolas,monospace,JetBrains Mono,consolas,Menlo, Monaco, 'Courier New', monospace",
+  "files.autoSave": "off",
+  "files.trimTrailingWhitespace": true,
+  "workbench.colorCustomizations": {
+    "editor.background": "#000"
+  },
+  "editor.tokenColorCustomizations": {
+    "variables": "#34d399",
+    "comments": "#a8a8a8",
+    "functions": "#49cc60",
+    "keywords": "#c081f3",
+    "strings": "#a3e635",
+    "types": "#8dc149"
+  },
+  "[json]": {
+    "editor.defaultFormatter": "vscode.json-language-features"
+  },
+  "[javascript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[vue]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[typescript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "editor.formatOnSave": false,
+  "beautify.language": {
+    "js": {
+      "type": ["javascript", "json", "jsonc"],
+      "filename": [".jshintrc", ".jsbeautifyrc"]
+    },
+    "css": ["css", "less", "scss"],
+    "html": ["htm", "html"]
+  },
+  "[typescriptreact]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "editor.fontSize": 14,
+  "[jsonc]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "workbench.startupEditor": "none",
+  "diffEditor.ignoreTrimWhitespace": false,
+  "beautify.config": ""
+}
